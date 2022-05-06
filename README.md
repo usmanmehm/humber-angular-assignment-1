@@ -1,2 +1,2 @@
 # humber-angular-assignment-1
-This is Assignment 1 for the .NET Angular Web Application Course at Humber
+Nice try! Answers will be pushed to this branch after everyone has submitted their code. :)
